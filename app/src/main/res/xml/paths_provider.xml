@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="cache"
+        path="."/>
+    <files-path name="images" path="/mati_global_id_sdk/"/>
+    <files-path name="root" path="."/>
+    <external-path name="external_files" path="cache"/>
+    <external-cache-path name="external_cache" path="cache" />
+    <external-cache-path name="external_cache" path="*" />
+</paths>
